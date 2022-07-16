@@ -15,13 +15,3 @@
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=UchqunShodmonov99&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
------
-
