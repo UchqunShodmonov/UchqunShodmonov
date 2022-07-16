@@ -12,6 +12,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchqunShodmonov99&theme=light" width="500">
 
+### Github Activity: 🔥 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=UchqunShodmonov99&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+
+
 ----
 
 <p align="center">
