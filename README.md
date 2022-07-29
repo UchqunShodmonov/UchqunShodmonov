@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
+<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+
 
 ## Hi, I’m Uchkun Shodmonov <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
