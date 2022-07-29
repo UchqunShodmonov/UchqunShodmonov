@@ -1,4 +1,4 @@
-<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
 ## Hi, I’m Uchkun Shodmonov <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
