@@ -1,6 +1,6 @@
-<img align="center" src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
-
-
+<h1 align="center">
+<img src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
+</h1>
 ## Hi, I’m Uchkun Shodmonov <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 <p>
