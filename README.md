@@ -3,7 +3,6 @@
 </h1>
    ## Hi, I’m Uchkun Shodmonov <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=UchqunShodmonov99&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Flutter+Developer;I'm+also+a+Software+Engineering" /></a>
 </p>
 
