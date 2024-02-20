@@ -8,8 +8,8 @@
 
 
 ### GitHub Stats:
-![](https://komarev.com/ghpvc/?username=UchqunShodmonov)
+![](https://komarev.com/ghpvc/?username=ushodmonov)
 
-<img src="https://github-readme-stats.vercel.app/api?username=UchqunShodmonov&show_icons=true" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=ushodmonov&show_icons=true" width="500">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchqunShodmonov&theme=light" width="500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushodmonov&theme=light" width="500">
